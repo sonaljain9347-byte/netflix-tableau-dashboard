@@ -33,7 +33,7 @@ This project is an interactive Netflix Analytics Dashboard created using Tableau
 
 ## Dashboard Preview
 
-(Add your dashboard screenshot here)
+[Netflix Dashboard](Netflix%20ss.png)
 
 ## Conclusion
 This dashboard provides valuable insights into Netflix's content library, helping users understand trends in genres, countries, ratings, and content growth through interactive visualizations.
